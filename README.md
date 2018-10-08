@@ -1,4 +1,4 @@
-# EID-Fall-2018-Homeworks
+### EID-Fall-2018-Homework 4
 
 Temperature, Humidity are sensed every second, and for every 10 times, the maximum, minimum, average values are printed.
 
